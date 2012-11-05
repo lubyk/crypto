@@ -4,6 +4,8 @@
 #  provides:
 #    crypto.so
 # --------------------------------------------------------------
+
+# TODO: STATIC LINKING WITH LIBSSL AND LIBCRYPTO !!
 set(MODULE_NAME crypto)
 set(target ${MODULE_NAME})
 
